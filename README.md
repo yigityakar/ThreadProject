@@ -1,5 +1,5 @@
 # COMP 304 Project 2
-Yiğit Yakar 72269 , Ece Pınar Özer 72047
+Yiğit Yakar  , Ece Pınar Özer 
 
 To run the code for Part 1, compile with:  `$ gcc project_2p1.c -lpthread` <br />
 To run the code for Part 2, compile with:  `$ gcc project_2p2.c -lpthread`
